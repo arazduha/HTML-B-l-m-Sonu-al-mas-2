@@ -1,2 +1,2 @@
-# HTML-B-l-m-Sonu-al-mas-2
+# HTML-Bolum sonu calısması-2
 HTML-part2
